@@ -19,11 +19,11 @@ IDE: OnlineGDB
 
 Estructura del proyecto
 
-- Haskell/Practica.exe
-- Haskell/Practica.hs
-- Haskell/Practica.o
-- Haskell/Practica.hi
-- Prolog/Practica prolog.pl
+- Practica/Haskell/Practica.exe
+- Practica/Haskell/Practica.hs
+- Practica/Haskell/Practica.o
+- Practica/Haskell/Practica.hi
+- Practica/Prolog/Practica prolog.pl
 
 Video
 
